@@ -1,0 +1,6 @@
+openai==1.11.1
+pandas==2.0.3
+numpy
+PyPDF2==3.0.1
+langdetect==1.0.9
+
