@@ -1,2 +1,7 @@
-/logs
+
 /in_progress
+/.ipynb_checkpoints
+.ipynb_checkpoints
+/Python_scripts
+.ipynb_checkpoints/
+.ipynb_checkpoints/Task1.v3_CV_Resume_refactoring-checkpoint.ipynb
